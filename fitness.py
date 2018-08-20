@@ -73,8 +73,8 @@ class RegneNode(object):
     def evaluateFunctionAt(self,x,y):
         return fun(x,y)
 
-    def updateWeight(self, factor):
-        weigth = weigth * factor
+    #def updateWeight(self, factor):
+    #    weigth = weigth * factor
     
     def getWeigth(self):
         return self.__weigth
