@@ -1,4 +1,4 @@
 def test():
-    print("hei jeg heter aleks")
+    print("hei jeg heter aleksander")
 
 test()
